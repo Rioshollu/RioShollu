@@ -5,7 +5,7 @@
 ## Personal Stuffs
 - 🧑🏻 My Name is **Rio Shollu Saputra**.
 - 💻 I’m Student on [Gunadarma University](https://www.gunadarma.ac.id/).
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap and React.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Robot Framework, Bootstrap and React.
 - 😃 I like to watch movies, listening to music, traveling and I'm a college student.
 - 💬 If you have any questions, just ask me.
 
