@@ -1,15 +1,15 @@
 <div align="Center">
-<h1>Hi There! I'm Developer 👋</h1>
+<h1>Hi, Saya Rio</h1>
 </div>
 
 ## Personal Stuffs
-- 🧑🏻 My Name is **Rio Shollu Saputra**.
-- 💻 I’m Student on [Gunadarma University](https://www.gunadarma.ac.id/).
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Robot Framework, Bootstrap and React.
-- 😃 I like to watch movies, listening to music, traveling and I'm a college student.
-- 💬 If you have any questions, just ask me.
+Nama Saya **Rio Shollu Saputra**. Saya merupakan lulusan [Gunadarma University](https://www.gunadarma.ac.id/) tahun 2023 jurusan Sistem Informasi dengan IPK 3,45/4,00. Saya memiliki pengalaman kerja selama 1 Tahun sebagai Project Management dan Quality Assurance Manual di PT. Ozip Teknologi Indonesia. 
 
-If you are interested in getting to know me, please follow the account [GitHub](https://github.com/Rioshollu), [LinkedIn](https://www.linkedin.com/in/rio-shollu-saputra-747310200/).
+Saat ini, saya sedang bekerja di PT. Davinci Teknologi Indonesia sebagai "Assistent Proyek". Perusahaan ini bergerak di bidang pengadaan barang dan jasa, proyek yang sedang saya tangani adalah Tilang Elektronik yang bekerja sama dengan Kepolisian Republik Indonesia.
+
+Saya memiliki minat yang kuat untuk berkarier sebagai Quality Assurance. Untuk mendukung keseriusan tersebut, saat ini saya sedang mengikuti kelas di MySkill serta telah menyelesaikan bootcamp di Sanbercode.
+
+Jika anda tertarik dengan profil saya, silahkan kunjungi dan ikuti saya [CV](https://drive.google.com/drive/folders/1iwfwf72p7teYKXc3RaTOB8gf-vh8nBkC?usp=sharing), [LinkedIn](https://www.linkedin.com/in/rio-shollu-saputra-747310200/).
 
 
 ## Github Statistic
