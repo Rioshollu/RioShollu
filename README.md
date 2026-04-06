@@ -3,7 +3,7 @@
 </div>
 
 ## Personal Stuffs
-Nama Saya **Rio Shollu Saputra**. Saya merupakan lulusan [Gunadarma University](https://www.gunadarma.ac.id/) tahun 2023 jurusan Sistem Informasi dengan IPK 3,45/4,00. Saya memiliki pengalaman kerja selama 1 Tahun sebagai Project Management dan Quality Assurance Manual di PT. Ozip Teknologi Indonesia. 
+**Rio Shollu Saputra**. Saya merupakan lulusan [Gunadarma University](https://www.gunadarma.ac.id/) tahun 2023 jurusan Sistem Informasi dengan IPK 3,45/4,00. Saya memiliki pengalaman kerja selama 1 Tahun sebagai Project Management dan Quality Assurance Manual di PT. Ozip Teknologi Indonesia. 
 
 Saat ini, saya sedang bekerja di PT. Davinci Teknologi Indonesia sebagai "Assistent Proyek". Perusahaan ini bergerak di bidang pengadaan barang dan jasa, proyek yang sedang saya tangani adalah Tilang Elektronik yang bekerja sama dengan Kepolisian Republik Indonesia.
 
